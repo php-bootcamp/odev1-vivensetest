@@ -18,3 +18,5 @@ $age = 25;
  * 
  * İyi çalışmalar.
  */
+
+echo $age;
